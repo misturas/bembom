@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.tv-logo.com/channels/pt-sport-tv-1" group-title="Sport",SPORT TV 1
+http://restream.cyprusnetserver.net:8988/Huripcamex/XFRuggQvuf/5576?checkedby:iptvcat.com
+
+#EXTINF:-2 tvg-logo="https://www.tv-logo.com/channels/pt-sport-tv-2" group-title="Sport",SPORT TV 2
+http://restream.cyprusnetserver.net:8988/Huripcamex/XFRuggQvuf/5575?checkedby:iptvcat.com
+
+#EXTINF:-3 tvg-logo="https://www.tv-logo.com/channels/pt-sport-tv-3" group-title="Sport",SPORT TV 3
+http://restream.cyprusnetserver.net:8988/Huripcamex/XFRuggQvuf/5574?checkedby:iptvcat.com
+
+#EXTINF:-4 tvg-logo="https://www.tv-logo.com/channels/pt-sport-tv-4" group-title="Sport",SPORT TV 4 HD
+http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1037?checkedby:iptvcat.com
+
+#EXTINF:-5 tvg-logo="https://www.tv-logo.com/channels/pt-sport-tv-4" group-title="Sport",SPORT TV 5
+http://restream.cyprusnetserver.net:8988/Huripcamex/XFRuggQvuf/5572?checkedby:iptvcat.com
+
+#EXTINF:-6 tvg-logo="https://www.tv-logo.com/channels/us-nba-tv" group-title="Sport",SPORT TV NBA HD
+http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/1895?checkedby:iptvcat.com
